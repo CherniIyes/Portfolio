@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently learning VueJS",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -140,31 +140,37 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "NextJS",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
+    name: "TailwindCSS",
     img: "/app.svg",
     nameImg: "/appName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
+    name: "Framer-Motion",
     img: "/host.svg",
     nameImg: "/hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
+    name: "Ngrok",
     img: "/s.svg",
     nameImg: "/streamName.svg",
   },
   {
     id: 5,
-    name: "docker.",
+    name: "Express.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 6,
+    name: "Mysql.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
