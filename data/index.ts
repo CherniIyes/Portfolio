@@ -107,9 +107,9 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Iyes was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project Vape-Hood. Iyes's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and brand, Iyes is Your ideal partner.",
+    name: "Aziz Touati",
+    title: "Owner of VapeHood Store",
   },
   {
     quote:
@@ -117,62 +117,51 @@ export const testimonials = [
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+ 
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "NextJS",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "React",
+    img: "/",
+    nameImg: "/React.svg",
   },
   {
     id: 2,
     name: "TailwindCSS",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    img: "/Tailwind.svg",
+    nameImg: "/Tailwind2.svg",
   },
   {
     id: 3,
-    name: "Framer-Motion",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Three",
+    img: "/Three.svg",
+    nameImg: "Three.svg",
   },
   {
     id: 4,
-    name: "Ngrok",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
+    name: "Recoil",
+    img: "/Recoil.svg",
+    nameImg: "/Recoil.svg",
+  },  
   {
     id: 5,
-    name: "Express.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "Ngrok",
+    img: "/Ngrok.svg",
+    nameImg: "/Ngrok.svg",
   },
   {
     id: 6,
+    name: "Express.",
+    img: "/Express.svg",
+    nameImg: "/Express.svg",
+  },
+  {
+    id: 7,
     name: "Mysql.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    img: "/Mysql.png",
+    nameImg: "/Mysql.png",
   },
 ];
 
