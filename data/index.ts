@@ -72,26 +72,26 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "Vape-Hood",
+    des: "Immerse yourself in the world of vaping with Vape-Hood, your go-to online store for premium products and accessories.",
+    img: "/Vape-Hood.png",
+    iconLists: ["/re.svg", "/WhiteNext.svg", "/tail.svg", "/fm.svg","/Ngrok.svg",],
+    link: "www.vape-hood.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "SiccaDev",
+    des: "SiccaDev is a newly established web development company in Tunisia, dedicated to crafting modern and innovative digital solutions.",
+    img: "/SiccaDev.png",
+    iconLists: ["/WhiteNext.svg", "/tail.svg", "/three.svg", "/Vercel.svg", "/Figma.svg"],
+    link: "www.siccadev.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    title: "DOGEUNIVERSE",
+    des: "The First Multichain Ecosystem with NFTs.",
+    img: "/Doge.png",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg",  "/fm.svg",],
     link: "/ui.aiimg.com",
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/WhiteNext.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
 ];
@@ -108,14 +108,14 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Iyes was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project Vape-Hood. Iyes's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and brand, Iyes is Your ideal partner.",
-    name: "Aziz Touati",
+    name: "Monji Touati",
     title: "Owner of VapeHood Store",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Iyes was an absolute joy! He was incredibly flexible with timing, always accommodating to our schedule, and made the entire process smooth and stress-free. His professionalism and positive attitude made a significant impact on the success of our project. Highly recommended!",
+    name: "Farah Tounsi",
+    title: "Founder of Caryria",
   },
  
 ];
