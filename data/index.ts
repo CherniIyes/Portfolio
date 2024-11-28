@@ -103,7 +103,7 @@ export const projects = [
     title: "Flousy-Byc",
     des: "Flousy-Byc is a sleek and user-friendly platform for tracking cryptocurrency prices, trends, and market insights.",
     img: "/Flousy (2).png",
-    iconLists: ["/WhiteNext.svg", "/tail.svg", "/ts.svg", "/threeIcon.svg", "/gsap.svg"],
+    iconLists: ["/WhiteNext.svg", "/tail.svg", "/JS.jpg", "/Vercel.svg", ],
     link: "https://flousy-byc.vercel.app",
     linkName: "flousy-byc.vercel.app",
   },
