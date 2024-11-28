@@ -135,8 +135,8 @@ export const companies = [
    {
     id: 2,
     name: "Next",
-    img: "/",
-    nameImg: "/NextJsName.svg",
+    img: "/NextJsName",
+    nameImg: "/NextJsName",
   },
   {
     id: 3,
@@ -147,7 +147,7 @@ export const companies = [
   {
     id: 4,
     name: "Three",
-    img: "/",
+    img: "/Three.svg",
     nameImg: "Three.svg",
   },
   {
@@ -155,7 +155,7 @@ export const companies = [
     name: "Recoil",
     img: "/",
     nameImg: "/Recoil.svg",
-  },  
+  },
   {
     id: 6,
     name: "Ngrok",
