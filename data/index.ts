@@ -132,12 +132,12 @@ export const companies = [
     img: "/",
     nameImg: "/React.svg",
   },
-  //  {
-  //   id: 2,
-  //   name: "Next",
-  //   img: "/NextJsName.svg",
-  //   nameImg: "/NextJsName.svg",
-  // },
+   {
+    id: 2,
+    name: "Next",
+    img: "/Nexttt.png",
+    nameImg: "/Nexttt.png",
+  },
   {
     id: 3,
     name: "TailwindCSS",
