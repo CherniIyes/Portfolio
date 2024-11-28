@@ -36,7 +36,7 @@ const Clients = () => {
                 /> */}
                 <img
                   src={company.nameImg}
-                  alt={company.name}
+                  alt={company.nameImg}
                   width={company.id === 2 || company.id === 3 ? 100 : 150}
                   className="md:w-24 w-40"
                 />
