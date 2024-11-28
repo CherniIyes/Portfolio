@@ -76,15 +76,18 @@ export const projects = [
     des: "Immerse yourself in the world of vaping with Vape-Hood, your go-to online store for premium products and accessories.",
     img: "/Vape-Hood.png",
     iconLists: ["/re.svg", "/WhiteNext.svg", "/tail.svg", "/fm.svg","/Ngrok.svg",],
-    link: "www.vape-hood.com",
+    link: "https://www.vape-hood.com",
+    linkName: "www.vape-hood.com",
   },
   {
     id: 2,
     title: "SiccaDev",
     des: "SiccaDev is a newly established web development company in Tunisia, dedicated to crafting modern and innovative digital solutions.",
     img: "/SiccaDev.png",
-    iconLists: ["/WhiteNext.svg", "/tail.svg", "/three.svg", "/Vercel.svg", "/Figma.svg"],
-    link: "www.siccadev.com",
+    iconLists: ["/WhiteNext.svg", "/tail.svg", "/threeIcon.svg", "/Vercel.svg", "/Figma.svg"],
+    link: "https://www.siccadev.com",
+    linkName: "www.siccadev.com",
+
   },
   {
     id: 3,
@@ -92,15 +95,17 @@ export const projects = [
     des: "The First Multichain Ecosystem with NFTs.",
     img: "/Doge.png",
     iconLists: ["/re.svg", "/ts.svg", "/tail.svg",  "/fm.svg",],
-    link: "/ui.aiimg.com",
+    link: "https://dogeuniverse-d1ap.vercel.app",
+    linkName: "dogeuniverse-d1ap.vercel.app",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/WhiteNext.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Flousy-Byc",
+    des: "Flousy-Byc is a sleek and user-friendly platform for tracking cryptocurrency prices, trends, and market insights.",
+    img: "/Flousy (2).png",
+    iconLists: ["/WhiteNext.svg", "/tail.svg", "/ts.svg", "/threeIcon.svg", "/gsap.svg"],
+    link: "https://flousy-byc.vercel.app",
+    linkName: "flousy-byc.vercel.app",
   },
 ];
 
@@ -127,40 +132,46 @@ export const companies = [
     img: "/",
     nameImg: "/React.svg",
   },
-  {
+   {
     id: 2,
-    name: "TailwindCSS",
-    img: "/Tailwind.svg",
-    nameImg: "/Tailwind2.svg",
+    name: "Next",
+    img: "/",
+    nameImg: "/NextJsName.svg",
   },
   {
     id: 3,
-    name: "Three",
-    img: "/Three.svg",
-    nameImg: "Three.svg",
+    name: "TailwindCSS",
+    img: "/",
+    nameImg: "/Tailwind2.svg",
   },
   {
     id: 4,
+    name: "Three",
+    img: "/",
+    nameImg: "Three.svg",
+  },
+  {
+    id: 5,
     name: "Recoil",
-    img: "/Recoil.svg",
+    img: "/",
     nameImg: "/Recoil.svg",
   },  
   {
-    id: 5,
+    id: 6,
     name: "Ngrok",
-    img: "/Ngrok.svg",
+    img: "/",
     nameImg: "/Ngrok.svg",
   },
   {
-    id: 6,
+    id: 7,
     name: "Express.",
-    img: "/Express.svg",
+    img: "/",
     nameImg: "/Express.svg",
   },
   {
-    id: 7,
+    id: 8,
     name: "Mysql.",
-    img: "/Mysql.png",
+    img: "/",
     nameImg: "/Mysql.png",
   },
 ];
@@ -168,23 +179,23 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Developer ",
+    desc: "Assisted in the development of a web-based platform using Next.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  {
-    id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
+ {
+  id: 2,
+  title: "Web Development - SiccaDev",
+  desc: "Set up and managed a server with Ngrok to streamline development and testing processes.",
+  className: "md:col-span-2",
+  thumbnail: "/exp2.svg",
+ },
+{
     id: 3,
     title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    desc: "Led the dev of a Web app for a client, from initial concept to deployment on Vercel.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
