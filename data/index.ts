@@ -147,8 +147,8 @@ export const companies = [
   {
     id: 4,
     name: "Three",
-    img: "/Three.svg",
-    nameImg: "Three.svg",
+    img: "/Threee.png",
+    nameImg: "/Threee.png",
   },
   {
     id: 5,
